@@ -17,10 +17,21 @@ I enjoy working with data, building dashboards, exploring business trends, and d
 
 ###  Featured Projects
 
-**Rosé's Wine Shop**
-- Full-stack e-commerce application using Flask and MySQL.
+### 🚀 Featured Project
+
+#### 🍷 Rosé's Wine Shop — Full-Stack E-Commerce & Analytics
+
+A full-stack wine e-commerce application developed during my internship at NIT Raipur.
+
+**Key Features**
+- User registration, login, shopping cart and checkout.
+- MySQL database integration.
 - Streamlit sales analytics dashboard.
-- Machine learning models and AI-powered FAQ chatbot.
+- Sales prediction using machine learning.
+- AI-powered FAQ chatbot using FAISS and a local language model.
+
+**Tech Stack:** Python, Flask, MySQL, HTML, CSS, JavaScript, Bootstrap, Pandas, Streamlit, Plotly, Scikit-learn, XGBoost.
+
 
 [View Project](https://github.com/mahisaahu/smart_wine_shop)
 
