@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mahima Sahu! 
 
-<!--
-**mahisaahu/mahisaahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Python Developer
 
-Here are some ideas to get you started:
+I'm an MCA graduate with a strong interest in Data Analytics, Python development, and solving real-world business problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, building dashboards, exploring business trends, and developing practical applications.
+
+### Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Visualization:** Power BI, Matplotlib, Plotly
+- **Databases:** MySQL
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Development:** Flask, HTML, CSS, JavaScript
+
+###  Featured Projects
+
+**Rosé's Wine Shop**
+- Full-stack e-commerce application using Flask and MySQL.
+- Streamlit sales analytics dashboard.
+- Machine learning models and AI-powered FAQ chatbot.
+
+[View Project](https://github.com/mahisaahu/smart_wine_shop)
+
+### Currently Learning
+
+- Advanced SQL and Python
+- Data Analytics and Business Intelligence
+- Power BI and DAX
+
+### Connect With Me
+
+- GitHub: [@mahisaahu](https://github.com/mahisaahu)
